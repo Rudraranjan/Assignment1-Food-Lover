@@ -1,0 +1,36 @@
+body{
+    margin: 0;    
+    font-family: 'Poppins', sans-serif;
+}
+
+/* introduction section  */
+
+.header-section{
+    display: flex;
+}
+.div-one{
+    width: 50%;
+    margin-left: 40px;
+}
+.div-one img{
+    width: 80%;
+    margin-left: 180px;
+}
+.div-one h1{
+   font-size: 80px;
+   color: rgb(3, 39, 63);
+}
+.color{
+    color: orangered;
+}
+.button{
+    text-decoration: none;
+    padding: 10px 20px;
+    background-image: linear-gradient(to right,orange,tomato);
+    color: white;
+    font-weight: 800;
+    border-radius: 20px;
+}
+.div-one p{
+    margin-bottom: 40px;
+ }
