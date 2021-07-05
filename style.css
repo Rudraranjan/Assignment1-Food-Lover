@@ -108,19 +108,19 @@ body{
      font-weight: 800;
      color: white;
      border-radius: 15px;
+     border: none;
      
  }
  .div-one ::placeholder{    
      color: white;
+     text-align: center;
      
  }
  .div-one h2{    
      text-align: center;  
      color: rgb(3, 39, 63);   
  }
- .div-one p{    
-     text-align: center;     
- }
+
  #display-div{
      background-image: url(images/shapes/Group\ 8450.png);
      background-repeat: no-repeat;
@@ -128,4 +128,19 @@ body{
     background-size: 50%;
     background-position: center;
  }
-     
+ #display-div p{
+     text-align: center;
+ }
+
+ /* Footer sectioan Details */
+
+ footer{     
+     background-color: black;
+     color: white;
+     text-align: center;
+     padding-top: 20px;
+     padding-bottom: 70px;
+ }
+ footer h1 span{
+     color: chocolate;
+ }     
